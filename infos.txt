@@ -1,0 +1,4 @@
+ module load ncbi-blast/2.2.26
+ creer virtualenv sur arwen et installer numpy
+
+ 
