@@ -5,4 +5,4 @@ dependencies:
 - pandas
 - matplotlib
 - seaborn
-- matplotlib_venn
+- matplotlib-venn
